@@ -2,9 +2,9 @@
 #define STB_IMAGE_WRITE_IMPLEMENTATION
 
 // Imports
-#include "image.h"
-#include "stb_image.h"
-#include "stb_image_write.h"
+#include "./image.h"
+#include "./stb_image.h"
+#include "./stb_image_write.h"
 #include <iostream>
 
 // Constructor
